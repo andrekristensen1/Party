@@ -1,2 +1,2 @@
 # Party
- Plan party.
+ Plan **party**.
